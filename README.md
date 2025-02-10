@@ -1,7 +1,5 @@
 # FPGA_FixedPoint_Simple_ALU_with_AXI
 
-# FPGA Fixed Point Simple ALU with AXI
-
 ## Project Overview
 
 This project implements a **simple ALU (Arithmetic Logic Unit)** with fixed-point arithmetic, which is capable of performing basic arithmetic operations such as **addition**, **subtraction**, and **multiplication**. The ALU is designed to operate using fixed-point representation, with a defined number of integer and fractional bits, making it suitable for FPGA-based hardware design.
